@@ -8,10 +8,10 @@ const lora = Lora({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Wixi Shop",
-    absolute: "Wixi Shop",
+    template: "%s | WixiShop",
+    absolute: "WixiShop",
   },
-  description: "Wixi Shop is the best place to buy your favorite products.",
+  description: "WixiShop is the best place to buy your favorite products.",
 };
 
 export default function RootLayout({
